@@ -85,5 +85,69 @@ Finally, press button "Resultado" (result) and a new window is opened, Figure 9.
 <img src="Figures/DCAD_Result.png" width="80%">
 </div>
 <p>
- <b>Figure 8:</b> DCAD - Result Window
+ <b>Figure 9:</b> DCAD - Result Window
 </p>
+
+In menu, the user can click in "Gerar Aarquivo" (create a file) and create a new PDF file, like in Figure 10.
+
+<div>
+<img src="Figures/DCAD_PDF.png" width="80%">
+</div>
+<p>
+ <b>Figure 10:</b> DCAD - PDF Window
+</p>
+
+The user has the option to search a register in program, in principal menu, option "Buscar" (Search). Then, it can choose a provider or a material. If the option is search a provider, a new window opens, Figure 11, the user has some options: "Inserir novo Fornecedor" (register new provider), "Excluir" (delete a provider, in this case, the provider that is selected in blue) and "Alterar" (change a provider, in this case, the provider that is selected in blue). "Inserir novo Fornecedor" and "Alterar" opens the same window presents in Figure 2. "Excluir" opens a conversation's window where question if the user is certainly to delete the provider. Delete a provider automaticaly delete all materials with him relationated.
+
+<div>
+<img src="Figures/DCAD_ProviderFind.png" width="50%">
+</div>
+<p>
+ <b>Figure 11:</b> DCAD - Find Provider Window
+</p>
+
+The same way is in search materials. A new window opens with all materials registered, Figure 12. "Inserir novo Material" (register new material) and "Alterar Material" (change material) opens the window presented in Figure 3. Only in case "Excluir" (delete) delete the material selected in blue.
+
+<div>
+<img src="Figures/DCAD_MaterialsFind.png" width="50%">
+</div>
+<p>
+ <b>Figure 12:</b> DCAD - Find Materials Window
+</p>
+
+Finally, the last button in principal window is "Ajuda" (Help), where the user can choose between "Sobre os Materiais" (about the materials), "Utilizando o Software" (using the software) and "Sobre o Software" (about the software). A new window opens with all those options. Figures 13 to 15 show this.
+
+<div>
+<img src="Figures/DCAD_AboutMaterials.png" width="80%">
+</div>
+<p>
+ <b>Figure 13:</b> DCAD - About Material Window
+</p>
+
+<div>
+<img src="Figures/DCAD_UsingSoftware.png" width="80%">
+</div>
+<p>
+ <b>Figure 14:</b> DCAD - Using Software Window
+</p>
+
+<div>
+<img src="Figures/DCAD_AboutSoftware.png" width="50%">
+</div>
+<p>
+ <b>Figure 15:</b> DCAD - About Software Window
+</p>
+
+DCAD software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 000973-0.
+
+## Informations About the Software
+
+Rio de Janeiro State University
+
+Faculty of Engineering
+
+Developer: Ana Waldila de Queiroz Ramiro Reis
+
+Professors: Margareth da Silva Magalhães and Rodrigo Bird Burgos
+
+Contact: anawaldila@hotmail.com
