@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DCAD is a desktop software developed in Visual Basic computational language, when it was used Visual Studio 2017 platfom. "Dosagem de Concreto de Alto Desempenho", the name in Portuguese, this software presents a dosage for a High Performance Concrete (HPC) based on the characteriscs of the materials and the method choose for the user. DCAD has developed with capacity to save, delete, search a register and change register about materials and provider's materials. After register all data base necessaire, the user can be calculate its own dosage and, finally, it is possible to save in PDF file.
+DCAD is a desktop software developed in Visual Basic computational language, when it was used Visual Studio 2017 platfom. "Dosagem de Concreto de Alto Desempenho", the name in Portuguese, this software presents a dosage for a High Performance Concrete (HPC) based on the characteristics of the materials and the method choose for the user. DCAD has developed with capacity to save, delete, search a register and change register about materials and provider's materials. After register all data base necessaire, the user can be calculate its own dosage and, finally, it is possible to save in PDF file.
 
 ## Software DCAD
 
