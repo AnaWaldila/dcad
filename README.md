@@ -33,3 +33,57 @@ Second, in principal menu, user click on "Cadastro" (register) and, after, "Mate
  <b>Figure 3:</b> DCAD - Materials Register Window
 </p>
 
+"Nova Dosagem" (new dosagem) is the third and principal steep. The software open a new window that there is some tabs to complete (the tab's name are the same of the materials, exception that "Dados Gerais", general data, and "Ar Incorporado", incorporate air). The first tab has 2 textbox and 1 combobox to complete: "Nome da Dosagem" (dosage's name), "Registência do Concreto (MPa)" (concrete resistence in compression) and "Método de Dosagem" (dosage's method), where can choose between "Método de Aitcin" (Aitcin's method) and "Método de Mheta Aitcin" (Mheta Aitcin's methods) - about those two methods, read Reis et al (2016). After complete this, click to "Próximo" (next), Figure 4.
+
+<div>
+<img src="Figures/DCAD_Dosage1.png" width="80%">
+</div>
+<p>
+ <b>Figure 4:</b> DCAD - Dosage Window Part 1 
+</p>
+
+After this, the first tab of material is "Cimento" (Cement). Automatically, all cement's material that was registrated appears in a table and only is necessaire to click in "Inserir" (insert), and all informations about the cement that was choosed are inserted in all textboxs, like in Figure 5.
+
+<div>
+<img src="Figures/DCAD_Dosage2.png" width="80%">
+</div>
+<p>
+ <b>Figure 5:</b> DCAD - Dosage Window Part 2 
+</p>
+
+All other materias are the same process, but in some cases the user needs to input same data. For instance, in "Adição Mineral 1" (mineral adition 1), it is necessaire to input content to be used (%), "Teor a Utilizar", because this information is not fixed. Figure 6 shows this:
+
+<div>
+<img src="Figures/DCAD_Dosage3.png" width="80%">
+</div>
+<p>
+ <b>Figure 6:</b> DCAD - Dosage Window Part 3 
+</p>
+
+After this, the software opens a box with a question, if the user can input a second option of minearl adition. If yes, another tab opens, if not, the tab of "Agregado Miúdo" (sand) opens.
+Both tabs "Agregado Miúdo" (sand) and "Agregado Graúdo" (stone) are the same informations. The user choose a register and, after insert, it needs to inform the water concentration, in %, "Teor de Água", and capacity water's absorvation, in %, "Absorção de Água (%)", like Figure 7.
+
+<div>
+<img src="Figures/DCAD_Dosage4.png" width="80%">
+</div>
+<p>
+ <b>Figure 7:</b> DCAD - Dosage Window Part 4 
+</p>
+
+The last one is "Ar Incorporado" (incorporated air), where it is necessaire to know the volume of air is in concrete, Figure 8. If the user does not know, suggest to see the literature of Aitcin method and Mheta Aitcin method. 
+
+<div>
+<img src="Figures/DCAD_Dosage5.png" width="80%">
+</div>
+<p>
+ <b>Figure 8:</b> DCAD - Dosage Window Part 5 
+</p>
+
+Finally, press button "Resultado" (result) and a new window is opened, Figure 9. In this window, the first column presents the result of dosage when the sand and stone are saturated with dry surface. The second one, the user needs to insert the volume of concrete that wants, in "Volume de Concreto (m³)" (concrete volume, m³). After insert this information, only click in button "Calcular" (calculate) and the second column is completed.
+
+<div>
+<img src="Figures/DCAD_Result.png" width="80%">
+</div>
+<p>
+ <b>Figure 8:</b> DCAD - Result Window
+</p>
