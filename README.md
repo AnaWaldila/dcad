@@ -140,6 +140,18 @@ Finally, the last button in principal window is "Ajuda" (Help), where the user c
 
 DCAD software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 000973-0.
 
+## References
+
+REIS, A. W. Q. R.; MAGALHAES, M. S. ; BURGOS, R. B. . Dosagem de Concretos de Alto Desempenho Utilizando a Ferramenta Computacional DCAD. SODEBRÁS, v. 135, p. 176-181, 2017.
+
+REIS, A. W. Q. R.; MAGALHAES, M. S. ; BURGOS, R. B. . Desenvolvimento de um Software para Dosagem de CAD. REVISTA INTERDISCIPLINAR DE PESQUISA EM ENGENHARIA, v. 2, p. 251-268, 2016.
+
+REIS, A. W. Q. R.; MAGALHAES, M. S. ; BURGOS, R. B. . DCAD - Aplicativo para Celular Android como Ferramenta para Dosagem de Concreto de Alto Desempenho. In: 59º Congresso Brasileiro do Concreto - CBC 2017, 2017, Bento Gonçalves - RS. Anais do 59º Congresso Brasileiro do Concreto - CBC 2017, 2017.
+
+REIS, A. W. Q. R.; MAGALHAES, M. S. ; OHNUMA JUNIOR, A. A. . Dosagem de Concretos de Alto Desempenho Utilizando a Ferramenta Computacional DCAD. In: XXXVI INTERNATIONAL SODEBRAS CONGRESS, 2016, Belo Horizonte. XXXVI INTERNATIONAL SODEBRAS CONGRESS, 2016.
+
+REIS, A. W. Q. R.; MAGALHAES, M. S. ; BURGOS, R. B. . Desenvolvimento de um Software para Dosagem de CAD. In: CILAMCE 2016 - XXXVII Ibero-Latin American Congress on Computational Methods in Engineering, 2016, Brasília. CILAMCE 2016 - Proceedings, 2016. v. 1. p. 1.
+
 ## Informations About the Software
 
 Rio de Janeiro State University
