@@ -24,7 +24,7 @@ First, register a new provider. Some pieces of information about the provider ar
  <b>Figure 2:</b> DCAD - Provider Register Window
 </p>
 
-Second, in principal menu, user can click on "Cadastro" (register) and, after, "Materiais" (materials) to register a material. First step is to create a relationship between the material and this provider, i.e., all materials must create a relationship with at least one supplier, necessarily. So, the menu "Informações" (information) has a button "Procurar" (search register) and the user can click on the button and find a provider that could creates a relationship with a material. After this, the user needs to choose which material wants to register: "Cimento" (cement), "Adição Mineral" (minearl adition), "Agregado Graúdo" (stone), "Agregado Miúno" (send) and "Aditivo Químico" (chemistry adition). For each material, some boxes will open, based on the characteristics of the material. For more details, read Reis et al (2016). Figure 3 shows the materials register.
+Second, in principal menu, user can click on "Cadastro" (register) and, after, "Materiais" (materials) to register a material. First step is to create a relationship between the material and this provider, i.e., all materials must create a relationship with at least one supplier, necessarily. So, the menu "Informações" (information) has a button "Procurar" (search register) and the user can click on the button and find a provider that could creates a relationship with a material. After this, the user needs to choose which material wants to register: "Cimento" (cement), "Adição Mineral" (minearl adition), "Agregado Graúdo" (coarse aggregate), "Agregado Miúno" (send) and "Aditivo Químico" (chemistry adition). For each material, some boxes will open, based on the characteristics of the material. For more details, read Reis et al (2016). Figure 3 shows the materials register.
 
 <div>
 <img src="Figures/DCAD_Materials.png" width="80%">
@@ -61,7 +61,7 @@ All other materias are the same process. However, in some cases the user needs t
 </p>
 
 After this, the software opens a box with a question, if the user can input a second option of minearl adition. If the answer is yes, another tab opens ("Adição Mineral 2 - mineral adition 2), if is not, the tab of "Agregado Miúdo" (sand) opens and "Adição Mineral 2" (mineral adition 2) is not enable.
-Both tabs "Agregado Miúdo" (sand) and "Agregado Graúdo" (stone) present the same pieces of informations. The user choose a register and, after insert, it needs to inform the water concentration, in %, "Teor de Água", and capacity water's absorvation, in %, "Absorção de Água (%)", as shown in Figure 7.
+Both tabs "Agregado Miúdo" (sand) and "Agregado Graúdo" (coarse aggregate) present the same pieces of informations. The user choose a register and, after insert, it needs to inform the water concentration, in %, "Teor de Água", and capacity water's absorvation, in %, "Absorção de Água (%)", as shown in Figure 7.
 
 <div>
 <img src="Figures/DCAD_Dosage4.png" width="80%">
